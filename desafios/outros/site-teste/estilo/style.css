@@ -41,11 +41,6 @@ header > p {
     padding-top: 5px;
 }
 
-nav {
-
- 
-}
-
 nav > a {
     font-family: sans-serif;
     background-color: var(--cor4);
