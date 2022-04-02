@@ -108,7 +108,7 @@ div.video {
     background-color: var(--cor4);
     margin: 0px -20px 30px -20px;
     padding: 20px;
-    padding-bottom: 59%;
+    padding-bottom: 50%;
     position: relative;
 }
 
@@ -125,7 +125,6 @@ footer {
     background-color: #1a5c37;
     color: white;
     text-align: center;
-    padding-bottom: 10px;
 }
 
 footer > p {
