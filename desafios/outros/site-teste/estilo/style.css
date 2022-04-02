@@ -18,7 +18,7 @@
 
 
 body {
-    background-color:rgb(216, 236, 224);
+    background-color:var(--cor0);
 }
 
 header {
@@ -102,6 +102,14 @@ img {
     max-width: 950px;
 }
 
+div#galeria {
+    background-color: #063d1e;
+    border-radius: 20px;
+    height: 850px;
+    padding-left: 55px;
+    padding-right: 50px;
+}
+
 div.video {
     background-color: var(--cor4);
     margin: 0px -20px 30px -20px;
@@ -118,6 +126,29 @@ div.video > iframe {
 
 }
 
+div.img {
+    margin: 20px;
+    border: 1px solid var(--cor0);
+    float: left;
+    width: 180px;
+    border-radius: 20px;
+    background-color: var(--cor0);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.img:hover {
+    border: 1px solid rgb(92, 92, 92);
+}
+
+div.img img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
 
 footer {
     background-color: #1a5c37;
