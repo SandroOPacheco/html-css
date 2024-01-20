@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>Tabelas</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        table {
+            width: 400px;
+            border-collapse: collapse;
+        }
+
+        tr.linha { 
+            background-color: gray;}
+
+        td {
+            border:  1px solid black;
+            padding: 8px;
+        }
+
+        td.red {
+            background-color: red;
+        }
+
+        td.blue {
+            background-color: blue;
+        }
+    </style>
+</head>
+<body>
+    <h1>Minha Primeira Tabela</h1>
+    <!--
+        HIERARQUIA DE TABELA (simples)
+        TABLE = tabela
+            TABLE ROW = linha de tabela
+                TABLE HEADER = cabeçalho de tabela
+                TABLE DATA = dado de tabela 
+    -->
+    <table>
+        <tr> <!-- Primeira Linha-->
+            <td class="red">A1</td>
+            <td class="blue">B1</td>
+            <td class="red">C1</td>
+            <td class="blue">D1</td>
+            <td class="red">E1</td>
+            <td class="blue">F</td>
+        </tr>
+        <tr class="linha"> <!-- Segunda Linha-->
+            <td class="red">A2</td>
+            <td class="blue">B2</td>
+            <td class="red">C2</td>
+            <td class="blue">D2</td>
+            <td class="red">E2</td>
+
+        </tr>
+        <tr> <!-- Terceira Linha-->
+            <td class="red">A3</td>
+            <td class="blue">B3</td>
+            <td class="red">C3</td>
+            <td class="blue">D3</td>
+
+        </tr>
+        <tr> <!-- Quarta Linha-->
+            <td class="red">A4</td>
+            <td class="blue">B4</td>
+            <td class="red">C4</td>
+        </tr>
+        <tr>
+            <td class="red">A5</td>
+            <td class="blue">B5</td>
+        </tr>
+        <tr>
+            <td class="red">A6</td>
+        </tr>
+    </table>
+</body>
+</html>
