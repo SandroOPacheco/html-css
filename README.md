@@ -45,9 +45,9 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositorios!
 
 <a href= "https://sandroopacheco.github.io/html-css/exercicios/ex017/fonte02.html" target="blank">Executar o exercício 017 fonte02</a>
 
-<a href= "https://sandroopacheco.github.io/html-css/exercicios/ex018/fonte01.html" target="blank">Executar o exercício 018 font01</a>
+<a href= "https://sandroopacheco.github.io/html-css/exercicios/ex018/font01.html" target="blank">Executar o exercício 018 font01</a>
 
-<a href= "https://sandroopacheco.github.io/html-css/exercicios/ex018/fonte02.html" target="blank">Executar o exercício 018 font02</a>
+<a href= "https://sandroopacheco.github.io/html-css/exercicios/ex018/font02.html" target="blank">Executar o exercício 018 font02</a>
 
 <a href= "https://sandroopacheco.github.io/html-css/exercicios/ex019/seletor01.html" target="blank">Executar o exercício 019</a>
 
