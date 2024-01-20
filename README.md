@@ -45,14 +45,36 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositorios!
 
 <a href= "https://sandroopacheco.github.io/html-css/exercicios/ex017/fonte02.html">Executar o exercício 017 fonte02</a>
 
-<a href= "https://sandroopacheco.github.io/html-css/exercicios/ex018/index.html">Executar o exercício 018</a>
+<a href= "https://sandroopacheco.github.io/html-css/exercicios/ex018/fonte01.html">Executar o exercício 018 fonte01</a>
 
-<a href= "https://sandroopacheco.github.io/html-css/exercicios/ex019/index.html">Executar o exercício 019</a>
+<a href= "https://sandroopacheco.github.io/html-css/exercicios/ex018/fonte02.html">Executar o exercício 018 fonte02</a>
 
-<a href= "https://sandroopacheco.github.io/html-css/exercicios/ex020/index.html">Executar o exercício 020</a>
+<a href= "https://sandroopacheco.github.io/html-css/exercicios/ex019/seletor01.html">Executar o exercício 019</a>
 
-<a href= "https://sandroopacheco.github.io/html-css/exercicios/ex021/index.html">Executar o exercício 021</a>
+<a href= "https://sandroopacheco.github.io/html-css/exercicios/ex020/hover.html">Executar o exercício 020 hover</a>
 
-<a href= "https://sandroopacheco.github.io/html-css/exercicios/ex022/index.html">Executar o exercício 022</a>
+<a href= "https://sandroopacheco.github.io/html-css/exercicios/ex020/links.html">Executar o exercício 020 links</a>
 
-<a href= "https://sandroopacheco.github.io/html-css/exercicios/ex023/index.html">Executar o exercício 023</a>
+<a href= "https://sandroopacheco.github.io/html-css/exercicios/ex020/pseudoclasse.html">Executar o exercício 020 pseudoclasse</a>
+
+<a href= "https://sandroopacheco.github.io/html-css/exercicios/ex021/caixa01.html">Executar o exercício 021 caixa01</a>
+
+<a href= "https://sandroopacheco.github.io/html-css/exercicios/ex021/caixa02.html">Executar o exercício 021 caixa02</a>
+
+<a href= "https://sandroopacheco.github.io/html-css/exercicios/ex021/caixa03.html">Executar o exercício 021 caixa03</a>
+
+<a href= "https://sandroopacheco.github.io/html-css/exercicios/ex022/fundo001.html">Executar o exercício 022 fundo01</a>
+
+<a href= "https://sandroopacheco.github.io/html-css/exercicios/ex022/fundo002.html">Executar o exercício 022 fundo02</a>
+
+<a href= "https://sandroopacheco.github.io/html-css/exercicios/ex022/fundo003.html">Executar o exercício 022 fundo03</a>
+
+<a href= "https://sandroopacheco.github.io/html-css/exercicios/ex022/fundo004.html">Executar o exercício 022 fundo04</a>
+
+<a href= "https://sandroopacheco.github.io/html-css/exercicios/ex022/fundo005.html">Executar o exercício 022 fundo05</a>
+
+<a href= "https://sandroopacheco.github.io/html-css/exercicios/ex022/fundo006.html">Executar o exercício 022 fundo06</a>
+
+<a href= "https://sandroopacheco.github.io/html-css/exercicios/ex022/fundo007.html">Executar o exercício 022 fundo07</a>
+
+<a href= "https://sandroopacheco.github.io/html-css/exercicios/ex023/tabela001.html">Executar o exercício 023</a>
