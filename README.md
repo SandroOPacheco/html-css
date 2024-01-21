@@ -80,3 +80,5 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositorios!
 <a href= "https://sandroopacheco.github.io/html-css/exercicios/ex023/tabela001.html" target="blank">Executar o exercício 023 tabela01</a>
 
 <a href= "https://sandroopacheco.github.io/html-css/exercicios/ex023/tabela002.html" target="blank">Executar o exercício 023 tabela02</a>
+
+<a href= "https://sandroopacheco.github.io/html-css/exercicios/ex023/tabela003.html" target="blank">Executar o exercício 023 tabela03</a>
