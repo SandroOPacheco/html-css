@@ -9,12 +9,12 @@
 }
 
 :root {
-    --cor0: #c5eaeb;
-    --cor1: #83dee1;
-    --cor2: #3ddcdc;
-    --cor3: #2fa0a8;
-    --cor4: #1a585c;    ;
-    --cor5: #063d3d;
+    --cor0: #003057;
+    --cor1: #0b445a;
+    --cor2: #125772;
+    --cor3: #277bac;
+    --cor4: #4199ec;    ;
+    --cor5: #4dbce7;
 
     --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
     --fonte-destaque: 'Bebas Neue', sans-serif;
@@ -37,14 +37,14 @@ a.externo::after {
 
 
 header {
-    background-image: linear-gradient(to bottom, var(--cor3), var(--cor5));
+    background-color: #f4f7f7;
     min-height: 150px;
     text-align: center;
     padding-top: 40px;
 }
 
 header > h1 {
-    color: white;
+    color: hsl(0, 0%, 100%);
     font-family: var(--fonte-destaque);
     font-size: 3em;
     font-weight: normal;
@@ -55,13 +55,12 @@ header > h1 {
 header > p {
     font-family: var(--fonte-padrao);
     font-size: 1.2em;
-    color: white;
+    color: rgb(0, 28, 59);
     max-width: 600px;
     padding-right: 10px;
     padding-left: 10px;
     margin: auto;
     padding-bottom: 50px;
-    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.315);
 }
 
 nav {
@@ -106,10 +105,10 @@ main h1 {
 
 main h2 {
     font-family: var(--fonte-android);
-    color: var(--cor4);
+    color: var(--cor1);
     font-size: 1.3em;
     font-weight: normal;
-    background-image: linear-gradient(to right, var(--cor1), transparent);
+    background-image: linear-gradient(to right, var(--cor4), transparent);
     text-indent: 8px;
 }
 
